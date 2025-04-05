@@ -1,0 +1,9 @@
+🔗 How Everything Works Together:
+
+HTML provides the content and structure.
+
+CSS makes it visually appealing.
+
+JavaScript adds interactivity, allowing users to change part of the page by clicking a button.
+
+All together, they build a tiny interactive app where the user can make the page say hello to them personally.
